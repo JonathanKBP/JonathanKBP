@@ -6,3 +6,6 @@
 * 📚 Sou estudante de Análise e desenvolvimento de sistema na FATEC Ipiranga - Faculdade de Tecnologia do Ipiranga.
 * 🚀 Tenho experiência com várias tecnologias, fique á vontade para olhar meu linkedin e repositórios
 * 💬 Quer conhecer um pouco mais sobre mim? Conheça minhas redes sociais ou entre em contato.
+
+![JonathanKBP's github stats](https://github-readme-stats.vercel.app/api?username=JonathanKBP&show_icons=true&theme=dracula)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&hide=html&theme=radical" alt="jonathan" />
