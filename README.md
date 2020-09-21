@@ -8,4 +8,4 @@
 * 💬 Quer conhecer um pouco mais sobre mim? Conheça minhas redes sociais ou entre em contato.
 
 ![JonathanKBP's github stats](https://github-readme-stats.vercel.app/api?username=JonathanKBP&show_icons=true&theme=dracula)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&hide=html&theme=radical" alt="jonathan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&hide=html&theme=dracula" alt="jonathan" />
