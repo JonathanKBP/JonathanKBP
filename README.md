@@ -7,8 +7,6 @@
   Me chamo Jonathan Kevin, sou estudante de desenvolvimento. 
 </p>
 
-<br/>
-
 ### Falando sobre mim
 
 - 👨‍💻 Estudo Análise e Desenvolvimento de Sistemas no FATEC;
