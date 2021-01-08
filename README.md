@@ -1,11 +1,12 @@
 # Olá, prazer em conhecê-lo 
 
-<img align="right" width="40%" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47e7bbcd3bbca70fbb5923f69c4b1f57c54d820da3&rid=giphy.gif" alt="Basecamp sky" />
-
 ### Seja bem vindo!
 <p>
   Me chamo Jonathan Kevin, sou estudante de desenvolvimento. 
 </p>
+
+
+<img align="right" width="40%" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47e7bbcd3bbca70fbb5923f69c4b1f57c54d820da3&rid=giphy.gif" alt="Basecamp sky" />
 
 ### Falando sobre mim
 
