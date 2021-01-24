@@ -1,8 +1,7 @@
-# Olá, prazer em conhecê-lo 
+# Olá, bem-vindo ao meu trabalho! 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&hide=html&vue&theme=radical" alt="JonathanKBP" />
 
-### Seja bem vindo!
 <p>
   Me chamo Jonathan Kevin, sou estudante de desenvolvimento. 
 </p>
