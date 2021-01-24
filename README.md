@@ -1,6 +1,6 @@
 # Olá, bem-vindo ao meu trabalho! 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&hide=html&vue&theme=radical" alt="JonathanKBP" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&hide=html&vue&theme=dracula" alt="JonathanKBP" />
 
 <p>
   Me chamo Jonathan Kevin, sou estudante de desenvolvimento. 
