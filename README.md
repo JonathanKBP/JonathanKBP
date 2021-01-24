@@ -2,6 +2,8 @@
 
 <img align="right" width="40%" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47e7bbcd3bbca70fbb5923f69c4b1f57c54d820da3&rid=giphy.gif" alt="Basecamp sky" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&hide=html&vue&theme=radical" alt="JonathanKBP" />
+
 ### Seja bem vindo!
 <p>
   Me chamo Jonathan Kevin, sou estudante de desenvolvimento. 
