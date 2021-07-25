@@ -8,11 +8,9 @@
 
 ### Falando sobre mim
 
-- 👨‍💻 Estudo Análise e Desenvolvimento de Sistemas no FATEC;
+- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na FATEC;
 
-- 📚 Atualmente estudando o ecossistema do JavaScript (ReactJS, React-native, NodeJS); 
-
-- 📬 Procurando por vaga de estágio ou desenvolvimento junior;
+- 📚 Sou analista de teste automatizados; 
 
 - 💬 Alguma dúvida? pode me perguntar.
 
@@ -31,7 +29,7 @@
 ## Minhas habilidades
 
 **Linguagens**
-
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -44,6 +42,12 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+**Testes**
+
+<code><img height="32" src="https://uploads-ssl.webflow.com/6073f69c8de34f4e58ad116c/608a5f429ffab4eab31dcc63_sahi_logo_NoBg_Black.png" alt="Sahi"/></code>
+<code><img height="32" src="https://www.selenium.dev/images/selenium_logo_large.png" alt="Selenium WebDriver"/></code>
+<code><img height="32" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/junit.png?itok=BY45PvT0" alt="Junit"/></code>
 
 **DevOps**
 
