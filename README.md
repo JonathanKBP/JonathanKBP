@@ -2,10 +2,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&hide=html&vue&theme=dracula" alt="JonathanKBP" />
 
-<p>
-  Me chamo Jonathan Kevin, sou estudante de desenvolvimento. 
-</p>
-
 ### Falando sobre mim
 
 - 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na FATEC;
