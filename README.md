@@ -43,7 +43,7 @@
 **Testes**
 
 <code><img height="32" src="https://pbs.twimg.com/profile_images/1271426551762976769/s69uM2Uh_400x400.png" alt="Sahi"/></code>
-<code><img height="32" src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="Selenium WebDriver"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" alt="Selenium WebDriver"/></code>
 <code><img height="32" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/junit.png?itok=BY45PvT0" alt="Junit"/></code>
 
 **DevOps**
