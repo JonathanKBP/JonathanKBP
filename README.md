@@ -1,6 +1,6 @@
 # Olá, bem-vindo ao meu trabalho! 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&layout=compact&langs_count=7&theme=dracula" alt="JonathanKBP" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKBP&hide=html&vue&theme=merko" alt="JonathanKBP" />
 
 ### Falando sobre mim
 
@@ -68,7 +68,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonathanKBP&show_icons=true&theme=dracula" alt="JonathanKBP github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JonathanKBP&show_icons=true&theme=merko" alt="JonathanKBP github stats" />
 </p>
 
 <br/>
