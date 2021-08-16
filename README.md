@@ -45,6 +45,7 @@
 <code><img height="32" src="https://pbs.twimg.com/profile_images/1271426551762976769/s69uM2Uh_400x400.png" alt="Sahi"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" alt="Selenium WebDriver"/></code>
 <code><img height="32" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/junit.png?itok=BY45PvT0" alt="Junit"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber"/></code>
 
 **DevOps**
 
