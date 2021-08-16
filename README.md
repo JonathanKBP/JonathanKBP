@@ -75,6 +75,6 @@
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/jonathankbp/jonathankbp" alt="Visitors badge" />
+      <img src="https://komarev.com/ghpvc/?username=your-github-JonathanKBP&color=006d32" alt="Visitors badge" />
    </a>
 </p>
