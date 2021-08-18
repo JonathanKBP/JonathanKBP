@@ -4,9 +4,9 @@
 
 ### Falando sobre mim
 
-- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na FATEC;
+- 📚 Formado em Análise e Desenvolvimento de Sistemas na FATEC;
 
-- 📚 Sou analista de teste automatizados; 
+- 👨‍💻 Sou analista de teste automatizados; 
 
 - 💬 Alguma dúvida? pode me perguntar.
 
