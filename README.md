@@ -13,11 +13,11 @@
 ### Onde me encontrar:
 
 <a href="https://www.linkedin.com/in/jonathan-kevin-barrence-20133a158/">
-  <code><img alt="Meu linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="Meu linkedin" width="28" src="https://github.dev/JonathanKBP/JonathanKBP/img/linkedin.png" /></code>
 </a>
 
 <a href="mailto:jonathan.kevinbp@hotmail.com">
-  <code><img alt="Meu e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="Meu e-mail" width="32" src="https://github.dev/JonathanKBP/JonathanKBP/img/email.png" /></code>
 </a>
 
 <br/><br/>
