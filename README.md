@@ -12,7 +12,7 @@
 
 ### Onde me encontrar:
 
-<a href="https://www.linkedin.com/in/jonathan-kevin-barrence-20133a158/">
+<a href="https://www.linkedin.com/in/jonathan-kevin-barrence-pinto-20133a158/">
   <code><img alt="Meu linkedin" width="28" src="https://github.com/JonathanKBP/JonathanKBP/blob/master/img/linkedin.png" /></code>
 </a>
 
@@ -43,8 +43,8 @@
 **Testes**
 
 <code><img height="32" src="https://pbs.twimg.com/profile_images/1271426551762976769/s69uM2Uh_400x400.png" alt="Sahi"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" alt="Selenium WebDriver"/></code>
-<code><img height="32" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/junit.png?itok=BY45PvT0" alt="Junit"/></code>
+<code><img height="32" src="https://pt.wikipedia.org/wiki/Selenium_(software)#/media/Ficheiro:Selenium_Logo.png" alt="Selenium WebDriver"/></code>
+<code><img height="32" src="https://junit.org/assets/img/junit-logo.svg" alt="Junit"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber"/></code>
 
 **DevOps**
