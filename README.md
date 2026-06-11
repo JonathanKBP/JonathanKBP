@@ -43,7 +43,7 @@
 **Testes**
 
 <code><img height="32" src="https://pbs.twimg.com/profile_images/1271426551762976769/s69uM2Uh_400x400.png" alt="Sahi"/></code>
-<code><img height="32" src="https://pt.wikipedia.org/wiki/Selenium_(software)#/media/Ficheiro:Selenium_Logo.png" alt="Selenium WebDriver"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/3840px-Selenium_logo.svg.png" alt="Selenium WebDriver"/></code>
 <code><img height="32" src="https://junit.org/assets/img/junit-logo.svg" alt="Junit"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber"/></code>
 
